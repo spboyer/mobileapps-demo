@@ -9,6 +9,7 @@
   "author": "Shayne Boyer",
   "license": "MIT",
   "dependencies": {
+    "compression": "^1.6.0",
     "express": "^4.13.3",
     "soap": "^0.10.0"
   }
